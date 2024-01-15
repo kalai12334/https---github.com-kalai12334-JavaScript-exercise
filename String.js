@@ -1,3 +1,4 @@
+//test
 let str=" kalai vani               ";
 console.log(str);
 let str1=str.length
