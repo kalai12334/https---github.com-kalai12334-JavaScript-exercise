@@ -9,7 +9,7 @@
 //     e) hasPlaywright (do not assign)
  
 //     print and confirm the values and data types
-//testing examples
+
 var firstName ='kalai';
 var companyName="Fidelity"
 var mobileNumber=98987654433
