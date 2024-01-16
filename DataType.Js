@@ -30,15 +30,15 @@
 
 //Array
 
-let browser1=[{
-    name:"chrome",
-    version:"48.3",
-     env:"FIN"
+let browser1 = [{
+    name: "chrome",
+    version: "48.3",
+    env: "FIN"
 },
 {
-    name:"firefox",
-    version:"48.5",
-     env:"FAC"
+    name: "firefox",
+    version: "48.5",
+    env: "FAC"
 }]
 console.log(browser1[1].name);
 console.log(typeof browser1);
